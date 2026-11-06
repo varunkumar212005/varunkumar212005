@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Varun Kumar M 👋
 
-<!--
-**varunkumar212005/varunkumar212005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science & Engineering Student
+💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+## About Me
+- Final-year CSE student at SDM Institute of Technology.
+- Interested in Java, Python and Full Stack Development.
+- Exploring AI, IoT and Software Development.
+- Passionate about learning and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Languages: Java, Python, C
+- Web: HTML, CSS, JavaScript
+- Database: MySQL, MongoDB
+- Backend: Node.js, Express.js, Flask
+- Tools: Git, GitHub, VS Code
+- Other: OpenCV, Machine Learning
+
+## Projects
+- AI-Enabled Food Expiry & Nutrition Tracker
+- IoT & AI-Powered Driver Drowsiness Detection System
+- Online Election System
+
+## Education
+BE Computer Science & Engineering
+SDM Institute of Technology, Ujire
+2023–2027
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/varun-kumar-m-96a701380/
+- Email: varunkumar21100@gmail.com
